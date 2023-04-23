@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607297260 source:e:\c++ programs\lab14\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
